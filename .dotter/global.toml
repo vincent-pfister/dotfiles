@@ -1,0 +1,13 @@
+[helpers]
+
+[default]
+depends = []
+
+[default.files]
+dotter = ""
+
+[default.variables]
+
+[git.files]
+gitconfig = "~/.gitconfig"
+
